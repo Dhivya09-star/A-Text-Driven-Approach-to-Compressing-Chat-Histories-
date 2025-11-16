@@ -1,0 +1,541 @@
+conv_id,turn,timestamp,role,sender,language,message
+1,1,2025-02-24 10:03,customer,Meera,hi,"Hi,"
+1,2,2025-02-24 10:06,agent,Alex,hi,नमस्ते! मैं कैसे मदद कर सकता हूँ?
+1,3,2025-02-24 10:09,customer,Meera,en,I have a question about my order — return status with my gaming mouse.
+1,4,2025-02-24 10:04,agent,Alex,hi,"Sure, I can help with that, कृपया अपना ऑर्डर आईडी साझा करें."
+1,5,2025-02-24 10:05,customer,Meera,en,my order id is ORD246316.
+1,6,2025-02-24 10:18,agent,Alex,en,let me check that for you… असुविधा के लिए क्षमा करें.
+1,7,2025-02-24 10:07,agent,Alex,en,We have verified return status; issue has been resolved.
+1,8,2025-02-24 10:16,customer,Meera,hi,बहुत धन्यवाद
+1,9,2025-02-24 10:09,agent,Alex,en,Have a great day!
+2,1,2025-02-11 10:02,customer,Liam,en,"Hi,"
+2,2,2025-02-11 10:04,agent,Morgan,en,Hello! Thanks for contacting support.
+2,3,2025-02-11 10:09,customer,Liam,en,I have a question about my order — wrong item received with my USB-C charger.
+2,4,2025-02-11 10:04,agent,Morgan,en,"I’ll be glad to help, could you provide the order id."
+2,5,2025-02-11 10:15,customer,Liam,en,my order id is ORD197251.
+2,6,2025-02-11 10:12,agent,Morgan,en,please wait a moment… we’re sorry about that.
+2,7,2025-02-11 10:21,agent,Morgan,en,We have verified wrong item received; your replacement is arranged.
+2,8,2025-02-11 10:08,customer,Liam,en,thank you very much
+2,9,2025-02-11 10:09,agent,Morgan,en,Have a great day!
+3,1,2025-01-29 10:02,customer,Nisha,es,"Hey,"
+3,2,2025-01-29 10:04,agent,Jordan,es,¡Hola! ¿En qué puedo ayudarte?
+3,3,2025-01-29 10:06,customer,Nisha,en,I have a question about my order — exchange request with my smartwatch.
+3,4,2025-01-29 10:04,agent,Jordan,es,"I’ll be glad to help, por favor comparte tu id de pedido."
+3,5,2025-01-29 10:15,customer,Nisha,en,order id ORD391476.
+3,6,2025-01-29 10:18,agent,Jordan,en,please wait a moment… disculpa las molestias.
+3,7,2025-01-29 10:07,agent,Jordan,en,Your smartwatch will arrive tomorrow.
+3,8,2025-01-29 10:16,customer,Nisha,es,muchas gracias
+3,9,2025-01-29 10:18,agent,Jordan,en,Take care!
+4,1,2025-02-19 10:01,customer,Sara,hi,"Hello,"
+4,2,2025-02-19 10:04,agent,Riley,hi,नमस्ते! मैं आपकी सहायता करूंगा।
+4,3,2025-02-19 10:03,customer,Sara,en,I need help with my order — return status with my wireless earbuds.
+4,4,2025-02-19 10:12,agent,Riley,hi,"I’ll be glad to help, कृपया अपना ऑर्डर आईडी साझा करें."
+4,5,2025-02-19 10:05,customer,Sara,en,order id ORD961722.
+4,6,2025-02-19 10:12,agent,Riley,en,one moment please… असुविधा के लिए क्षमा करें.
+4,7,2025-02-19 10:07,agent,Riley,en,Your wireless earbuds replacement is arranged.
+4,8,2025-02-19 10:24,customer,Sara,hi,बहुत धन्यवाद
+4,9,2025-02-19 10:27,agent,Riley,en,Take care!
+5,1,2025-02-11 10:01,customer,Sofia,en,"Hi,"
+5,2,2025-02-11 10:02,agent,Sam,en,Hi there!
+5,3,2025-02-11 10:09,customer,Sofia,en,I need help with my order — coupon not applied with my phone case.
+5,4,2025-02-11 10:12,agent,Sam,en,"I can assist you with that, may I have your order id."
+5,5,2025-02-11 10:05,customer,Sofia,en,the order id is ORD617488.
+5,6,2025-02-11 10:12,agent,Sam,en,let me check that for you… I apologize for the trouble.
+5,7,2025-02-11 10:21,agent,Sam,en,Your phone case will arrive tomorrow.
+5,8,2025-02-11 10:24,customer,Sofia,en,thank you
+5,9,2025-02-11 10:27,agent,Sam,en,Take care!
+6,1,2025-02-01 10:03,customer,Liam,en,"Hey,"
+6,2,2025-02-01 10:04,agent,Jordan,en,Hello! How can I help you today?
+6,3,2025-02-01 10:03,customer,Liam,en,Can you help me with my order? — payment failed with my phone case.
+6,4,2025-02-01 10:04,agent,Jordan,en,"I’ll be glad to help, could you provide the order id."
+6,5,2025-02-01 10:15,customer,Liam,en,order id ORD103402.
+6,6,2025-02-01 10:18,agent,Jordan,en,please wait a moment… sorry for the inconvenience.
+6,7,2025-02-01 10:21,agent,Jordan,en,Your phone case refund has been initiated.
+6,8,2025-02-01 10:16,customer,Liam,en,thanks
+6,9,2025-02-01 10:09,agent,Jordan,en,Have a great day!
+7,1,2025-02-07 10:03,customer,Nisha,en,"Hello,"
+7,2,2025-02-07 10:02,agent,Casey,en,Hello! How can I help you today?
+7,3,2025-02-07 10:03,customer,Nisha,en,I need help with my order — wrong item received with my power bank.
+7,4,2025-02-07 10:12,agent,Casey,en,"I can assist you with that, may I have your order id."
+7,5,2025-02-07 10:05,customer,Nisha,en,the order id is ORD189814.
+7,6,2025-02-07 10:18,agent,Casey,en,let me check that for you… I apologize for the trouble.
+7,7,2025-02-07 10:21,agent,Casey,en,Your power bank replacement is arranged.
+7,8,2025-02-07 10:16,customer,Nisha,en,thanks
+7,9,2025-02-07 10:27,agent,Casey,en,Take care!
+8,1,2025-02-07 10:02,customer,Ethan,en,"Hi,"
+8,2,2025-02-07 10:06,agent,Jamie,en,Hello! How can I help you today?
+8,3,2025-02-07 10:03,customer,Ethan,en,Can you help me with my order? — return status with my gaming mouse.
+8,4,2025-02-07 10:04,agent,Jamie,en,"Sure, I can help with that, please share your order id."
+8,5,2025-02-07 10:15,customer,Ethan,en,order id ORD167136.
+8,6,2025-02-07 10:06,agent,Jamie,en,please wait a moment… sorry for the inconvenience.
+8,7,2025-02-07 10:21,agent,Jamie,en,Your gaming mouse replacement is arranged.
+8,8,2025-02-07 10:08,customer,Ethan,en,thanks
+8,9,2025-02-07 10:27,agent,Jamie,en,Is there anything else I can help with?
+9,1,2025-01-28 10:01,customer,Lucas,hi,"Hello,"
+9,2,2025-01-28 10:04,agent,Taylor,hi,नमस्ते! मैं कैसे मदद कर सकता हूँ?
+9,3,2025-01-28 10:03,customer,Lucas,en,I need help with my order — warranty claim with my power bank.
+9,4,2025-01-28 10:12,agent,Taylor,hi,"I can assist you with that, कृपया अपना ऑर्डर आईडी साझा करें."
+9,5,2025-01-28 10:10,customer,Lucas,en,the order id is ORD595631.
+9,6,2025-01-28 10:12,agent,Taylor,en,let me check that for you… असुविधा के लिए क्षमा करें.
+9,7,2025-01-28 10:07,agent,Taylor,en,Your power bank will arrive tomorrow.
+9,8,2025-01-28 10:16,customer,Lucas,hi,बहुत धन्यवाद
+9,9,2025-01-28 10:09,agent,Taylor,en,Have a great day!
+10,1,2025-01-27 10:02,customer,Kabir,en,"Hi,"
+10,2,2025-01-27 10:02,agent,Jamie,en,Hello! Thanks for contacting support.
+10,3,2025-01-27 10:09,customer,Kabir,en,I need help with my order — defective product with my Bluetooth speaker.
+10,4,2025-01-27 10:04,agent,Jamie,en,"I’ll be glad to help, may I have your order id."
+10,5,2025-01-27 10:05,customer,Kabir,en,my order id is ORD392075.
+10,6,2025-01-27 10:06,agent,Jamie,en,please wait a moment… I apologize for the trouble.
+10,7,2025-01-27 10:14,agent,Jamie,en,Your Bluetooth speaker refund has been initiated.
+10,8,2025-01-27 10:08,customer,Kabir,en,thank you
+10,9,2025-01-27 10:18,agent,Jamie,en,Have a great day!
+11,1,2025-02-08 10:01,customer,Rohan,en,"Hello,"
+11,2,2025-02-08 10:02,agent,Drew,en,Hi there!
+11,3,2025-02-08 10:09,customer,Rohan,en,Can you help me with my order? — payment failed with my fitness band.
+11,4,2025-02-08 10:12,agent,Drew,en,"Sure, I can help with that, may I have your order id."
+11,5,2025-02-08 10:10,customer,Rohan,en,my order id is ORD262316.
+11,6,2025-02-08 10:06,agent,Drew,en,let me check that for you… I apologize for the trouble.
+11,7,2025-02-08 10:07,agent,Drew,en,Your fitness band will arrive tomorrow.
+11,8,2025-02-08 10:24,customer,Rohan,en,thank you
+11,9,2025-02-08 10:09,agent,Drew,en,Have a great day!
+12,1,2025-02-22 10:03,customer,Ishaan,en,"Hi,"
+12,2,2025-02-22 10:06,agent,Casey,en,Hi there!
+12,3,2025-02-22 10:06,customer,Ishaan,en,Can you help me with my order? — return status with my power bank.
+12,4,2025-02-22 10:12,agent,Casey,en,"I’ll be glad to help, may I have your order id."
+12,5,2025-02-22 10:10,customer,Ishaan,en,the order id is ORD707040.
+12,6,2025-02-22 10:06,agent,Casey,en,let me check that for you… we’re sorry about that.
+12,7,2025-02-22 10:14,agent,Casey,en,We have verified return status; issue has been resolved.
+12,8,2025-02-22 10:08,customer,Ishaan,en,thank you very much
+12,9,2025-02-22 10:27,agent,Casey,en,Is there anything else I can help with?
+13,1,2025-02-13 10:01,customer,Liam,en,"Hey,"
+13,2,2025-02-13 10:02,agent,Jordan,en,Hello! How can I help you today?
+13,3,2025-02-13 10:06,customer,Liam,en,I need help with my order — warranty claim with my power bank.
+13,4,2025-02-13 10:08,agent,Jordan,en,"Sure, I can help with that, please share your order id."
+13,5,2025-02-13 10:10,customer,Liam,en,the order id is ORD204837.
+13,6,2025-02-13 10:06,agent,Jordan,en,one moment please… we’re sorry about that.
+13,7,2025-02-13 10:21,agent,Jordan,en,Your power bank will arrive tomorrow.
+13,8,2025-02-13 10:24,customer,Liam,en,thanks
+13,9,2025-02-13 10:27,agent,Jordan,en,Have a great day!
+14,1,2025-01-23 10:02,customer,Rohan,es,"Hey,"
+14,2,2025-01-23 10:02,agent,Jordan,es,¡Hola! Gracias por contactar al soporte.
+14,3,2025-01-23 10:03,customer,Rohan,en,Can you help me with my order? — defective product with my fitness band.
+14,4,2025-01-23 10:12,agent,Jordan,es,"I can assist you with that, por favor comparte tu id de pedido."
+14,5,2025-01-23 10:10,customer,Rohan,en,my order id is ORD385577.
+14,6,2025-01-23 10:06,agent,Jordan,en,let me check that for you… disculpa las molestias.
+14,7,2025-01-23 10:14,agent,Jordan,en,Your fitness band refund has been initiated.
+14,8,2025-01-23 10:08,customer,Rohan,es,muchas gracias
+14,9,2025-01-23 10:09,agent,Jordan,en,Take care!
+15,1,2025-02-12 10:01,customer,Lucas,en,"Hey,"
+15,2,2025-02-12 10:02,agent,Sam,en,Hello! Thanks for contacting support.
+15,3,2025-02-12 10:09,customer,Lucas,en,Can you help me with my order? — wrong item received with my smartwatch.
+15,4,2025-02-12 10:04,agent,Sam,en,"I can assist you with that, please share your order id."
+15,5,2025-02-12 10:05,customer,Lucas,en,the order id is ORD824586.
+15,6,2025-02-12 10:12,agent,Sam,en,please wait a moment… I apologize for the trouble.
+15,7,2025-02-12 10:21,agent,Sam,en,Your smartwatch replacement is arranged.
+15,8,2025-02-12 10:08,customer,Lucas,en,thanks
+15,9,2025-02-12 10:27,agent,Sam,en,Is there anything else I can help with?
+16,1,2025-02-23 10:01,customer,Arjun,es,"Hey,"
+16,2,2025-02-23 10:04,agent,Casey,es,¡Hola! Gracias por contactar al soporte.
+16,3,2025-02-23 10:09,customer,Arjun,en,Can you help me with my order? — exchange request with my phone case.
+16,4,2025-02-23 10:04,agent,Casey,es,"I can assist you with that, por favor comparte tu id de pedido."
+16,5,2025-02-23 10:15,customer,Arjun,en,my order id is ORD125990.
+16,6,2025-02-23 10:12,agent,Casey,en,please wait a moment… disculpa las molestias.
+16,7,2025-02-23 10:14,agent,Casey,en,We have verified exchange request; issue has been resolved.
+16,8,2025-02-23 10:16,customer,Arjun,es,gracias
+16,9,2025-02-23 10:09,agent,Casey,en,Have a great day!
+17,1,2025-01-27 10:03,customer,Noah,en,"Hey,"
+17,2,2025-01-27 10:04,agent,Riley,en,Hello! How can I help you today?
+17,3,2025-01-27 10:09,customer,Noah,en,I have a question about my order — refund not processed with my smartwatch.
+17,4,2025-01-27 10:04,agent,Riley,en,"Sure, I can help with that, could you provide the order id."
+17,5,2025-01-27 10:05,customer,Noah,en,order id ORD468203.
+17,6,2025-01-27 10:12,agent,Riley,en,please wait a moment… sorry for the inconvenience.
+17,7,2025-01-27 10:21,agent,Riley,en,We have verified refund not processed; your refund has been initiated.
+17,8,2025-01-27 10:16,customer,Noah,en,thanks
+17,9,2025-01-27 10:27,agent,Riley,en,Take care!
+18,1,2025-01-22 10:03,customer,Noah,en,"Hey,"
+18,2,2025-01-22 10:06,agent,Devin,en,Hello! How can I help you today?
+18,3,2025-01-22 10:09,customer,Noah,en,Can you help me with my order? — exchange request with my wireless earbuds.
+18,4,2025-01-22 10:12,agent,Devin,en,"Sure, I can help with that, could you provide the order id."
+18,5,2025-01-22 10:10,customer,Noah,en,my order id is ORD101773.
+18,6,2025-01-22 10:18,agent,Devin,en,one moment please… we’re sorry about that.
+18,7,2025-01-22 10:21,agent,Devin,en,Your wireless earbuds refund has been initiated.
+18,8,2025-01-22 10:16,customer,Noah,en,thank you very much
+18,9,2025-01-22 10:18,agent,Devin,en,Take care!
+19,1,2025-02-10 10:02,customer,Liam,en,"Hey,"
+19,2,2025-02-10 10:04,agent,Sam,en,Hello! How can I help you today?
+19,3,2025-02-10 10:09,customer,Liam,en,I need help with my order — defective product with my fitness band.
+19,4,2025-02-10 10:12,agent,Sam,en,"I’ll be glad to help, could you provide the order id."
+19,5,2025-02-10 10:10,customer,Liam,en,order id ORD301158.
+19,6,2025-02-10 10:06,agent,Sam,en,one moment please… I apologize for the trouble.
+19,7,2025-02-10 10:14,agent,Sam,en,We have verified defective product; your refund has been initiated.
+19,8,2025-02-10 10:16,customer,Liam,en,thanks
+19,9,2025-02-10 10:27,agent,Sam,en,Have a great day!
+20,1,2025-02-16 10:03,customer,Ava,en,"Hey,"
+20,2,2025-02-16 10:04,agent,Taylor,en,Hi there!
+20,3,2025-02-16 10:03,customer,Ava,en,Can you help me with my order? — coupon not applied with my laptop stand.
+20,4,2025-02-16 10:08,agent,Taylor,en,"Sure, I can help with that, please share your order id."
+20,5,2025-02-16 10:05,customer,Ava,en,my order id is ORD796101.
+20,6,2025-02-16 10:06,agent,Taylor,en,please wait a moment… I apologize for the trouble.
+20,7,2025-02-16 10:14,agent,Taylor,en,We have verified coupon not applied; issue has been resolved.
+20,8,2025-02-16 10:24,customer,Ava,en,thank you very much
+20,9,2025-02-16 10:09,agent,Taylor,en,Take care!
+21,1,2025-02-08 10:02,customer,Ava,en,"Hi,"
+21,2,2025-02-08 10:02,agent,Sam,en,Hello! How can I help you today?
+21,3,2025-02-08 10:09,customer,Ava,en,I have a question about my order — wrong item received with my wireless earbuds.
+21,4,2025-02-08 10:04,agent,Sam,en,"I’ll be glad to help, please share your order id."
+21,5,2025-02-08 10:05,customer,Ava,en,the order id is ORD916232.
+21,6,2025-02-08 10:06,agent,Sam,en,one moment please… we’re sorry about that.
+21,7,2025-02-08 10:14,agent,Sam,en,We have verified wrong item received; your replacement is arranged.
+21,8,2025-02-08 10:24,customer,Ava,en,thank you very much
+21,9,2025-02-08 10:27,agent,Sam,en,Is there anything else I can help with?
+22,1,2025-02-19 10:01,customer,Ethan,hi,"Hey,"
+22,2,2025-02-19 10:04,agent,Taylor,hi,नमस्ते! मैं आपकी सहायता करूंगा।
+22,3,2025-02-19 10:09,customer,Ethan,en,I need help with my order — payment failed with my LED light strip.
+22,4,2025-02-19 10:08,agent,Taylor,hi,"I can assist you with that, कृपया अपना ऑर्डर आईडी साझा करें."
+22,5,2025-02-19 10:15,customer,Ethan,en,the order id is ORD371782.
+22,6,2025-02-19 10:06,agent,Taylor,en,one moment please… असुविधा के लिए क्षमा करें.
+22,7,2025-02-19 10:07,agent,Taylor,en,Your LED light strip refund has been initiated.
+22,8,2025-02-19 10:08,customer,Ethan,hi,धन्यवाद
+22,9,2025-02-19 10:18,agent,Taylor,en,Take care!
+23,1,2025-01-24 10:02,customer,Kabir,en,"Hi,"
+23,2,2025-01-24 10:02,agent,Jordan,en,Hello! Thanks for contacting support.
+23,3,2025-01-24 10:06,customer,Kabir,en,Can you help me with my order? — coupon not applied with my USB-C charger.
+23,4,2025-01-24 10:12,agent,Jordan,en,"Sure, I can help with that, may I have your order id."
+23,5,2025-01-24 10:10,customer,Kabir,en,the order id is ORD588557.
+23,6,2025-01-24 10:06,agent,Jordan,en,one moment please… I apologize for the trouble.
+23,7,2025-01-24 10:14,agent,Jordan,en,Your USB-C charger refund has been initiated.
+23,8,2025-01-24 10:08,customer,Kabir,en,thanks
+23,9,2025-01-24 10:18,agent,Jordan,en,Is there anything else I can help with?
+24,1,2025-01-16 10:02,customer,Noah,en,"Hi,"
+24,2,2025-01-16 10:06,agent,Riley,en,Hello! How can I help you today?
+24,3,2025-01-16 10:03,customer,Noah,en,I have a question about my order — defective product with my Bluetooth speaker.
+24,4,2025-01-16 10:12,agent,Riley,en,"I’ll be glad to help, may I have your order id."
+24,5,2025-01-16 10:05,customer,Noah,en,my order id is ORD981334.
+24,6,2025-01-16 10:18,agent,Riley,en,one moment please… sorry for the inconvenience.
+24,7,2025-01-16 10:14,agent,Riley,en,Your Bluetooth speaker refund has been initiated.
+24,8,2025-01-16 10:16,customer,Noah,en,thanks
+24,9,2025-01-16 10:09,agent,Riley,en,Is there anything else I can help with?
+25,1,2025-02-04 10:01,customer,Liam,en,"Hello,"
+25,2,2025-02-04 10:02,agent,Sam,en,Hello! How can I help you today?
+25,3,2025-02-04 10:09,customer,Liam,en,I need help with my order — refund not processed with my Bluetooth speaker.
+25,4,2025-02-04 10:08,agent,Sam,en,"Sure, I can help with that, may I have your order id."
+25,5,2025-02-04 10:05,customer,Liam,en,order id ORD975467.
+25,6,2025-02-04 10:06,agent,Sam,en,please wait a moment… sorry for the inconvenience.
+25,7,2025-02-04 10:07,agent,Sam,en,Your Bluetooth speaker replacement is arranged.
+25,8,2025-02-04 10:08,customer,Liam,en,thanks
+25,9,2025-02-04 10:27,agent,Sam,en,Have a great day!
+26,1,2025-02-20 10:03,customer,Kabir,en,"Hey,"
+26,2,2025-02-20 10:06,agent,Drew,en,Hi there!
+26,3,2025-02-20 10:03,customer,Kabir,en,I have a question about my order — defective product with my USB-C charger.
+26,4,2025-02-20 10:04,agent,Drew,en,"I’ll be glad to help, please share your order id."
+26,5,2025-02-20 10:10,customer,Kabir,en,order id ORD735324.
+26,6,2025-02-20 10:18,agent,Drew,en,one moment please… I apologize for the trouble.
+26,7,2025-02-20 10:21,agent,Drew,en,Your USB-C charger will arrive tomorrow.
+26,8,2025-02-20 10:24,customer,Kabir,en,thank you very much
+26,9,2025-02-20 10:09,agent,Drew,en,Have a great day!
+27,1,2025-02-03 10:03,customer,Amelia,hi,"Hello,"
+27,2,2025-02-03 10:06,agent,Jordan,hi,नमस्ते! मैं आपकी सहायता करूंगा।
+27,3,2025-02-03 10:03,customer,Amelia,en,Can you help me with my order? — delayed delivery with my power bank.
+27,4,2025-02-03 10:12,agent,Jordan,hi,"I can assist you with that, कृपया अपना ऑर्डर आईडी साझा करें."
+27,5,2025-02-03 10:10,customer,Amelia,en,the order id is ORD464069.
+27,6,2025-02-03 10:06,agent,Jordan,en,one moment please… असुविधा के लिए क्षमा करें.
+27,7,2025-02-03 10:14,agent,Jordan,en,Your power bank will arrive tomorrow.
+27,8,2025-02-03 10:08,customer,Amelia,hi,बहुत धन्यवाद
+27,9,2025-02-03 10:27,agent,Jordan,en,Take care!
+28,1,2025-02-14 10:01,customer,Ethan,hi,"Hi,"
+28,2,2025-02-14 10:04,agent,Sam,hi,नमस्ते! मैं आपकी सहायता करूंगा।
+28,3,2025-02-14 10:03,customer,Ethan,en,I have a question about my order — refund not processed with my power bank.
+28,4,2025-02-14 10:12,agent,Sam,hi,"I’ll be glad to help, कृपया अपना ऑर्डर आईडी साझा करें."
+28,5,2025-02-14 10:10,customer,Ethan,en,my order id is ORD437960.
+28,6,2025-02-14 10:12,agent,Sam,en,one moment please… असुविधा के लिए क्षमा करें.
+28,7,2025-02-14 10:14,agent,Sam,en,We have verified refund not processed; issue has been resolved.
+28,8,2025-02-14 10:16,customer,Ethan,hi,बहुत धन्यवाद
+28,9,2025-02-14 10:27,agent,Sam,en,Take care!
+29,1,2025-02-01 10:03,customer,Lucas,en,"Hello,"
+29,2,2025-02-01 10:04,agent,Alex,en,Hello! How can I help you today?
+29,3,2025-02-01 10:03,customer,Lucas,en,Can you help me with my order? — wrong item received with my gaming mouse.
+29,4,2025-02-01 10:08,agent,Alex,en,"I’ll be glad to help, may I have your order id."
+29,5,2025-02-01 10:10,customer,Lucas,en,the order id is ORD353080.
+29,6,2025-02-01 10:06,agent,Alex,en,please wait a moment… I apologize for the trouble.
+29,7,2025-02-01 10:14,agent,Alex,en,Your gaming mouse replacement is arranged.
+29,8,2025-02-01 10:24,customer,Lucas,en,thank you very much
+29,9,2025-02-01 10:18,agent,Alex,en,Is there anything else I can help with?
+30,1,2025-02-19 10:03,customer,Mia,en,"Hello,"
+30,2,2025-02-19 10:04,agent,Riley,en,Hello! Thanks for contacting support.
+30,3,2025-02-19 10:06,customer,Mia,en,I need help with my order — cancellation request with my fitness band.
+30,4,2025-02-19 10:04,agent,Riley,en,"I’ll be glad to help, please share your order id."
+30,5,2025-02-19 10:10,customer,Mia,en,my order id is ORD468900.
+30,6,2025-02-19 10:18,agent,Riley,en,let me check that for you… we’re sorry about that.
+30,7,2025-02-19 10:21,agent,Riley,en,Your fitness band replacement is arranged.
+30,8,2025-02-19 10:16,customer,Mia,en,thanks
+30,9,2025-02-19 10:27,agent,Riley,en,Take care!
+31,1,2025-02-17 10:02,customer,Amelia,es,"Hi,"
+31,2,2025-02-17 10:04,agent,Morgan,es,¡Hola! ¿En qué puedo ayudarte?
+31,3,2025-02-17 10:09,customer,Amelia,en,Can you help me with my order? — refund not processed with my gaming mouse.
+31,4,2025-02-17 10:04,agent,Morgan,es,"I can assist you with that, por favor comparte tu id de pedido."
+31,5,2025-02-17 10:05,customer,Amelia,en,order id ORD338533.
+31,6,2025-02-17 10:12,agent,Morgan,en,let me check that for you… disculpa las molestias.
+31,7,2025-02-17 10:07,agent,Morgan,en,Your gaming mouse will arrive tomorrow.
+31,8,2025-02-17 10:24,customer,Amelia,es,muchas gracias
+31,9,2025-02-17 10:18,agent,Morgan,en,Is there anything else I can help with?
+32,1,2025-02-12 10:01,customer,Liam,es,"Hello,"
+32,2,2025-02-12 10:04,agent,Taylor,es,¡Hola! ¿En qué puedo ayudarte?
+32,3,2025-02-12 10:09,customer,Liam,en,Can you help me with my order? — payment failed with my laptop stand.
+32,4,2025-02-12 10:12,agent,Taylor,es,"Sure, I can help with that, por favor comparte tu id de pedido."
+32,5,2025-02-12 10:05,customer,Liam,en,order id ORD219629.
+32,6,2025-02-12 10:12,agent,Taylor,en,please wait a moment… disculpa las molestias.
+32,7,2025-02-12 10:21,agent,Taylor,en,We have verified payment failed; your replacement is arranged.
+32,8,2025-02-12 10:24,customer,Liam,es,gracias
+32,9,2025-02-12 10:27,agent,Taylor,en,Is there anything else I can help with?
+33,1,2025-02-12 10:03,customer,Ethan,es,"Hi,"
+33,2,2025-02-12 10:06,agent,Morgan,es,¡Hola! ¿En qué puedo ayudarte?
+33,3,2025-02-12 10:03,customer,Ethan,en,Can you help me with my order? — refund not processed with my Bluetooth speaker.
+33,4,2025-02-12 10:04,agent,Morgan,es,"I can assist you with that, por favor comparte tu id de pedido."
+33,5,2025-02-12 10:05,customer,Ethan,en,my order id is ORD696251.
+33,6,2025-02-12 10:06,agent,Morgan,en,let me check that for you… disculpa las molestias.
+33,7,2025-02-12 10:14,agent,Morgan,en,We have verified refund not processed; issue has been resolved.
+33,8,2025-02-12 10:24,customer,Ethan,es,muchas gracias
+33,9,2025-02-12 10:18,agent,Morgan,en,Have a great day!
+34,1,2025-01-29 10:01,customer,Nisha,hi,"Hello,"
+34,2,2025-01-29 10:06,agent,Morgan,hi,नमस्ते! मैं कैसे मदद कर सकता हूँ?
+34,3,2025-01-29 10:06,customer,Nisha,en,I need help with my order — wrong item received with my LED light strip.
+34,4,2025-01-29 10:12,agent,Morgan,hi,"Sure, I can help with that, कृपया अपना ऑर्डर आईडी साझा करें."
+34,5,2025-01-29 10:10,customer,Nisha,en,my order id is ORD820775.
+34,6,2025-01-29 10:06,agent,Morgan,en,please wait a moment… असुविधा के लिए क्षमा करें.
+34,7,2025-01-29 10:14,agent,Morgan,en,We have verified wrong item received; your replacement is arranged.
+34,8,2025-01-29 10:08,customer,Nisha,hi,बहुत धन्यवाद
+34,9,2025-01-29 10:27,agent,Morgan,en,Is there anything else I can help with?
+35,1,2025-02-09 10:01,customer,Rohan,en,"Hello,"
+35,2,2025-02-09 10:06,agent,Jamie,en,Hello! Thanks for contacting support.
+35,3,2025-02-09 10:09,customer,Rohan,en,I have a question about my order — wrong item received with my LED light strip.
+35,4,2025-02-09 10:04,agent,Jamie,en,"Sure, I can help with that, please share your order id."
+35,5,2025-02-09 10:15,customer,Rohan,en,order id ORD727086.
+35,6,2025-02-09 10:18,agent,Jamie,en,please wait a moment… we’re sorry about that.
+35,7,2025-02-09 10:07,agent,Jamie,en,Your LED light strip refund has been initiated.
+35,8,2025-02-09 10:16,customer,Rohan,en,thank you very much
+35,9,2025-02-09 10:27,agent,Jamie,en,Is there anything else I can help with?
+36,1,2025-02-01 10:02,customer,Anaya,en,"Hello,"
+36,2,2025-02-01 10:04,agent,Devin,en,Hello! Thanks for contacting support.
+36,3,2025-02-01 10:09,customer,Anaya,en,I need help with my order — wrong item received with my LED light strip.
+36,4,2025-02-01 10:04,agent,Devin,en,"I can assist you with that, could you provide the order id."
+36,5,2025-02-01 10:15,customer,Anaya,en,the order id is ORD592841.
+36,6,2025-02-01 10:12,agent,Devin,en,let me check that for you… I apologize for the trouble.
+36,7,2025-02-01 10:07,agent,Devin,en,We have verified wrong item received; issue has been resolved.
+36,8,2025-02-01 10:16,customer,Anaya,en,thanks
+36,9,2025-02-01 10:18,agent,Devin,en,Have a great day!
+37,1,2025-02-09 10:01,customer,Mia,en,"Hi,"
+37,2,2025-02-09 10:06,agent,Alex,en,Hello! Thanks for contacting support.
+37,3,2025-02-09 10:09,customer,Mia,en,I have a question about my order — payment failed with my fitness band.
+37,4,2025-02-09 10:12,agent,Alex,en,"I can assist you with that, please share your order id."
+37,5,2025-02-09 10:05,customer,Mia,en,the order id is ORD533321.
+37,6,2025-02-09 10:18,agent,Alex,en,please wait a moment… I apologize for the trouble.
+37,7,2025-02-09 10:07,agent,Alex,en,We have verified payment failed; your replacement is arranged.
+37,8,2025-02-09 10:08,customer,Mia,en,thank you very much
+37,9,2025-02-09 10:27,agent,Alex,en,Have a great day!
+38,1,2025-01-25 10:01,customer,Nisha,en,"Hello,"
+38,2,2025-01-25 10:02,agent,Jamie,en,Hello! How can I help you today?
+38,3,2025-01-25 10:03,customer,Nisha,en,I have a question about my order — wrong item received with my Bluetooth speaker.
+38,4,2025-01-25 10:12,agent,Jamie,en,"I can assist you with that, may I have your order id."
+38,5,2025-01-25 10:15,customer,Nisha,en,the order id is ORD335615.
+38,6,2025-01-25 10:12,agent,Jamie,en,one moment please… I apologize for the trouble.
+38,7,2025-01-25 10:14,agent,Jamie,en,Your Bluetooth speaker replacement is arranged.
+38,8,2025-01-25 10:08,customer,Nisha,en,thank you very much
+38,9,2025-01-25 10:27,agent,Jamie,en,Take care!
+39,1,2025-01-23 10:03,customer,Ishaan,hi,"Hello,"
+39,2,2025-01-23 10:02,agent,Morgan,hi,नमस्ते! मैं आपकी सहायता करूंगा।
+39,3,2025-01-23 10:09,customer,Ishaan,en,I have a question about my order — cancellation request with my Bluetooth speaker.
+39,4,2025-01-23 10:12,agent,Morgan,hi,"I’ll be glad to help, कृपया अपना ऑर्डर आईडी साझा करें."
+39,5,2025-01-23 10:05,customer,Ishaan,en,the order id is ORD925981.
+39,6,2025-01-23 10:18,agent,Morgan,en,one moment please… असुविधा के लिए क्षमा करें.
+39,7,2025-01-23 10:14,agent,Morgan,en,We have verified cancellation request; your replacement is arranged.
+39,8,2025-01-23 10:16,customer,Ishaan,hi,धन्यवाद
+39,9,2025-01-23 10:27,agent,Morgan,en,Have a great day!
+40,1,2025-02-20 10:03,customer,Noah,es,"Hello,"
+40,2,2025-02-20 10:06,agent,Casey,es,¡Hola! Gracias por contactar al soporte.
+40,3,2025-02-20 10:06,customer,Noah,en,Can you help me with my order? — delayed delivery with my Bluetooth speaker.
+40,4,2025-02-20 10:12,agent,Casey,es,"Sure, I can help with that, por favor comparte tu id de pedido."
+40,5,2025-02-20 10:05,customer,Noah,en,my order id is ORD433632.
+40,6,2025-02-20 10:18,agent,Casey,en,let me check that for you… disculpa las molestias.
+40,7,2025-02-20 10:21,agent,Casey,en,Your Bluetooth speaker replacement is arranged.
+40,8,2025-02-20 10:16,customer,Noah,es,gracias
+40,9,2025-02-20 10:27,agent,Casey,en,Have a great day!
+41,1,2025-02-10 10:03,customer,Arjun,en,"Hello,"
+41,2,2025-02-10 10:06,agent,Jordan,en,Hi there!
+41,3,2025-02-10 10:06,customer,Arjun,en,Can you help me with my order? — cancellation request with my laptop stand.
+41,4,2025-02-10 10:12,agent,Jordan,en,"I can assist you with that, could you provide the order id."
+41,5,2025-02-10 10:15,customer,Arjun,en,order id ORD753534.
+41,6,2025-02-10 10:12,agent,Jordan,en,let me check that for you… sorry for the inconvenience.
+41,7,2025-02-10 10:21,agent,Jordan,en,Your laptop stand will arrive tomorrow.
+41,8,2025-02-10 10:24,customer,Arjun,en,thanks
+41,9,2025-02-10 10:09,agent,Jordan,en,Take care!
+42,1,2025-01-20 10:03,customer,Olivia,hi,"Hello,"
+42,2,2025-01-20 10:02,agent,Jordan,hi,नमस्ते! मैं कैसे मदद कर सकता हूँ?
+42,3,2025-01-20 10:06,customer,Olivia,en,I need help with my order — payment failed with my smartwatch.
+42,4,2025-01-20 10:08,agent,Jordan,hi,"I can assist you with that, कृपया अपना ऑर्डर आईडी साझा करें."
+42,5,2025-01-20 10:10,customer,Olivia,en,my order id is ORD274446.
+42,6,2025-01-20 10:06,agent,Jordan,en,let me check that for you… असुविधा के लिए क्षमा करें.
+42,7,2025-01-20 10:07,agent,Jordan,en,Your smartwatch will arrive tomorrow.
+42,8,2025-01-20 10:08,customer,Olivia,hi,धन्यवाद
+42,9,2025-01-20 10:27,agent,Jordan,en,Is there anything else I can help with?
+43,1,2025-02-23 10:03,customer,Sara,es,"Hello,"
+43,2,2025-02-23 10:04,agent,Drew,es,¡Hola! Gracias por contactar al soporte.
+43,3,2025-02-23 10:09,customer,Sara,en,I need help with my order — return status with my phone case.
+43,4,2025-02-23 10:08,agent,Drew,es,"I can assist you with that, por favor comparte tu id de pedido."
+43,5,2025-02-23 10:05,customer,Sara,en,the order id is ORD583550.
+43,6,2025-02-23 10:12,agent,Drew,en,let me check that for you… disculpa las molestias.
+43,7,2025-02-23 10:14,agent,Drew,en,We have verified return status; your refund has been initiated.
+43,8,2025-02-23 10:16,customer,Sara,es,gracias
+43,9,2025-02-23 10:18,agent,Drew,en,Is there anything else I can help with?
+44,1,2025-01-21 10:02,customer,Sara,en,"Hi,"
+44,2,2025-01-21 10:06,agent,Sam,en,Hello! Thanks for contacting support.
+44,3,2025-01-21 10:06,customer,Sara,en,I need help with my order — refund not processed with my power bank.
+44,4,2025-01-21 10:12,agent,Sam,en,"I’ll be glad to help, may I have your order id."
+44,5,2025-01-21 10:05,customer,Sara,en,order id ORD833247.
+44,6,2025-01-21 10:18,agent,Sam,en,one moment please… I apologize for the trouble.
+44,7,2025-01-21 10:07,agent,Sam,en,We have verified refund not processed; your replacement is arranged.
+44,8,2025-01-21 10:24,customer,Sara,en,thank you
+44,9,2025-01-21 10:27,agent,Sam,en,Is there anything else I can help with?
+45,1,2025-01-23 10:02,customer,Meera,en,"Hey,"
+45,2,2025-01-23 10:02,agent,Alex,en,Hi there!
+45,3,2025-01-23 10:06,customer,Meera,en,I have a question about my order — delayed delivery with my LED light strip.
+45,4,2025-01-23 10:12,agent,Alex,en,"I can assist you with that, please share your order id."
+45,5,2025-01-23 10:05,customer,Meera,en,my order id is ORD707727.
+45,6,2025-01-23 10:18,agent,Alex,en,one moment please… we’re sorry about that.
+45,7,2025-01-23 10:14,agent,Alex,en,Your LED light strip will arrive tomorrow.
+45,8,2025-01-23 10:16,customer,Meera,en,thanks
+45,9,2025-01-23 10:27,agent,Alex,en,Is there anything else I can help with?
+46,1,2025-01-22 10:03,customer,Ethan,en,"Hello,"
+46,2,2025-01-22 10:02,agent,Jordan,en,Hello! Thanks for contacting support.
+46,3,2025-01-22 10:03,customer,Ethan,en,I have a question about my order — exchange request with my gaming mouse.
+46,4,2025-01-22 10:12,agent,Jordan,en,"Sure, I can help with that, could you provide the order id."
+46,5,2025-01-22 10:10,customer,Ethan,en,order id ORD986827.
+46,6,2025-01-22 10:18,agent,Jordan,en,let me check that for you… I apologize for the trouble.
+46,7,2025-01-22 10:07,agent,Jordan,en,We have verified exchange request; your refund has been initiated.
+46,8,2025-01-22 10:24,customer,Ethan,en,thank you
+46,9,2025-01-22 10:18,agent,Jordan,en,Have a great day!
+47,1,2025-02-23 10:02,customer,Lucas,es,"Hey,"
+47,2,2025-02-23 10:04,agent,Riley,es,¡Hola! Gracias por contactar al soporte.
+47,3,2025-02-23 10:03,customer,Lucas,en,I need help with my order — wrong item received with my gaming mouse.
+47,4,2025-02-23 10:04,agent,Riley,es,"Sure, I can help with that, por favor comparte tu id de pedido."
+47,5,2025-02-23 10:10,customer,Lucas,en,my order id is ORD766269.
+47,6,2025-02-23 10:06,agent,Riley,en,please wait a moment… disculpa las molestias.
+47,7,2025-02-23 10:21,agent,Riley,en,We have verified wrong item received; your refund has been initiated.
+47,8,2025-02-23 10:24,customer,Lucas,es,muchas gracias
+47,9,2025-02-23 10:27,agent,Riley,en,Take care!
+48,1,2025-01-24 10:01,customer,Olivia,hi,"Hey,"
+48,2,2025-01-24 10:04,agent,Jordan,hi,नमस्ते! मैं कैसे मदद कर सकता हूँ?
+48,3,2025-01-24 10:06,customer,Olivia,en,I have a question about my order — exchange request with my power bank.
+48,4,2025-01-24 10:04,agent,Jordan,hi,"I can assist you with that, कृपया अपना ऑर्डर आईडी साझा करें."
+48,5,2025-01-24 10:15,customer,Olivia,en,the order id is ORD393328.
+48,6,2025-01-24 10:18,agent,Jordan,en,let me check that for you… असुविधा के लिए क्षमा करें.
+48,7,2025-01-24 10:07,agent,Jordan,en,We have verified exchange request; your refund has been initiated.
+48,8,2025-01-24 10:08,customer,Olivia,hi,बहुत धन्यवाद
+48,9,2025-01-24 10:09,agent,Jordan,en,Take care!
+49,1,2025-01-28 10:03,customer,Amelia,en,"Hi,"
+49,2,2025-01-28 10:02,agent,Alex,en,Hello! How can I help you today?
+49,3,2025-01-28 10:03,customer,Amelia,en,Can you help me with my order? — return status with my USB-C charger.
+49,4,2025-01-28 10:04,agent,Alex,en,"Sure, I can help with that, could you provide the order id."
+49,5,2025-01-28 10:05,customer,Amelia,en,order id ORD232040.
+49,6,2025-01-28 10:06,agent,Alex,en,one moment please… sorry for the inconvenience.
+49,7,2025-01-28 10:07,agent,Alex,en,We have verified return status; your replacement is arranged.
+49,8,2025-01-28 10:08,customer,Amelia,en,thank you very much
+49,9,2025-01-28 10:09,agent,Alex,en,Have a great day!
+50,1,2025-01-15 10:01,customer,Emma,en,"Hi,"
+50,2,2025-01-15 10:06,agent,Casey,en,Hello! Thanks for contacting support.
+50,3,2025-01-15 10:09,customer,Emma,en,I need help with my order — defective product with my wireless earbuds.
+50,4,2025-01-15 10:12,agent,Casey,en,"Sure, I can help with that, could you provide the order id."
+50,5,2025-01-15 10:10,customer,Emma,en,the order id is ORD378258.
+50,6,2025-01-15 10:18,agent,Casey,en,let me check that for you… sorry for the inconvenience.
+50,7,2025-01-15 10:21,agent,Casey,en,Your wireless earbuds refund has been initiated.
+50,8,2025-01-15 10:08,customer,Emma,en,thank you very much
+50,9,2025-01-15 10:27,agent,Casey,en,Take care!
+51,1,2025-02-03 10:03,customer,Ethan,en,"Hi,"
+51,2,2025-02-03 10:04,agent,Alex,en,Hello! How can I help you today?
+51,3,2025-02-03 10:06,customer,Ethan,en,I need help with my order — exchange request with my LED light strip.
+51,4,2025-02-03 10:04,agent,Alex,en,"I can assist you with that, may I have your order id."
+51,5,2025-02-03 10:05,customer,Ethan,en,my order id is ORD546980.
+51,6,2025-02-03 10:06,agent,Alex,en,one moment please… we’re sorry about that.
+51,7,2025-02-03 10:14,agent,Alex,en,We have verified exchange request; your replacement is arranged.
+51,8,2025-02-03 10:24,customer,Ethan,en,thank you very much
+51,9,2025-02-03 10:18,agent,Alex,en,Is there anything else I can help with?
+52,1,2025-02-16 10:01,customer,Amelia,en,"Hello,"
+52,2,2025-02-16 10:04,agent,Sam,en,Hi there!
+52,3,2025-02-16 10:06,customer,Amelia,en,I have a question about my order — coupon not applied with my smartwatch.
+52,4,2025-02-16 10:08,agent,Sam,en,"I can assist you with that, could you provide the order id."
+52,5,2025-02-16 10:15,customer,Amelia,en,my order id is ORD855855.
+52,6,2025-02-16 10:12,agent,Sam,en,one moment please… I apologize for the trouble.
+52,7,2025-02-16 10:07,agent,Sam,en,We have verified coupon not applied; your refund has been initiated.
+52,8,2025-02-16 10:24,customer,Amelia,en,thanks
+52,9,2025-02-16 10:09,agent,Sam,en,Have a great day!
+53,1,2025-01-20 10:01,customer,Ishaan,en,"Hey,"
+53,2,2025-01-20 10:06,agent,Sam,en,Hello! How can I help you today?
+53,3,2025-01-20 10:06,customer,Ishaan,en,Can you help me with my order? — defective product with my USB-C charger.
+53,4,2025-01-20 10:04,agent,Sam,en,"I can assist you with that, could you provide the order id."
+53,5,2025-01-20 10:15,customer,Ishaan,en,the order id is ORD683397.
+53,6,2025-01-20 10:18,agent,Sam,en,please wait a moment… I apologize for the trouble.
+53,7,2025-01-20 10:07,agent,Sam,en,We have verified defective product; your refund has been initiated.
+53,8,2025-01-20 10:24,customer,Ishaan,en,thank you very much
+53,9,2025-01-20 10:09,agent,Sam,en,Have a great day!
+54,1,2025-02-14 10:02,customer,Sara,en,"Hey,"
+54,2,2025-02-14 10:02,agent,Jordan,en,Hello! Thanks for contacting support.
+54,3,2025-02-14 10:09,customer,Sara,en,Can you help me with my order? — cancellation request with my fitness band.
+54,4,2025-02-14 10:12,agent,Jordan,en,"I’ll be glad to help, may I have your order id."
+54,5,2025-02-14 10:15,customer,Sara,en,my order id is ORD220465.
+54,6,2025-02-14 10:18,agent,Jordan,en,let me check that for you… we’re sorry about that.
+54,7,2025-02-14 10:14,agent,Jordan,en,Your fitness band refund has been initiated.
+54,8,2025-02-14 10:24,customer,Sara,en,thanks
+54,9,2025-02-14 10:18,agent,Jordan,en,Is there anything else I can help with?
+55,1,2025-01-15 10:03,customer,Anaya,en,"Hey,"
+55,2,2025-01-15 10:02,agent,Taylor,en,Hi there!
+55,3,2025-01-15 10:09,customer,Anaya,en,Can you help me with my order? — wrong item received with my Bluetooth speaker.
+55,4,2025-01-15 10:04,agent,Taylor,en,"I can assist you with that, could you provide the order id."
+55,5,2025-01-15 10:10,customer,Anaya,en,the order id is ORD248766.
+55,6,2025-01-15 10:06,agent,Taylor,en,one moment please… I apologize for the trouble.
+55,7,2025-01-15 10:07,agent,Taylor,en,Your Bluetooth speaker will arrive tomorrow.
+55,8,2025-01-15 10:08,customer,Anaya,en,thank you
+55,9,2025-01-15 10:27,agent,Taylor,en,Have a great day!
+56,1,2025-01-20 10:02,customer,Rohan,en,"Hello,"
+56,2,2025-01-20 10:02,agent,Drew,en,Hello! How can I help you today?
+56,3,2025-01-20 10:03,customer,Rohan,en,I have a question about my order — warranty claim with my LED light strip.
+56,4,2025-01-20 10:08,agent,Drew,en,"Sure, I can help with that, could you provide the order id."
+56,5,2025-01-20 10:15,customer,Rohan,en,order id ORD563516.
+56,6,2025-01-20 10:18,agent,Drew,en,one moment please… we’re sorry about that.
+56,7,2025-01-20 10:07,agent,Drew,en,Your LED light strip will arrive tomorrow.
+56,8,2025-01-20 10:16,customer,Rohan,en,thank you very much
+56,9,2025-01-20 10:09,agent,Drew,en,Have a great day!
+57,1,2025-01-28 10:01,customer,Nisha,hi,"Hi,"
+57,2,2025-01-28 10:04,agent,Casey,hi,नमस्ते! मैं आपकी सहायता करूंगा।
+57,3,2025-01-28 10:03,customer,Nisha,en,I need help with my order — refund not processed with my laptop stand.
+57,4,2025-01-28 10:08,agent,Casey,hi,"I’ll be glad to help, कृपया अपना ऑर्डर आईडी साझा करें."
+57,5,2025-01-28 10:15,customer,Nisha,en,order id ORD444061.
+57,6,2025-01-28 10:18,agent,Casey,en,one moment please… असुविधा के लिए क्षमा करें.
+57,7,2025-01-28 10:14,agent,Casey,en,Your laptop stand refund has been initiated.
+57,8,2025-01-28 10:08,customer,Nisha,hi,बहुत धन्यवाद
+57,9,2025-01-28 10:09,agent,Casey,en,Is there anything else I can help with?
+58,1,2025-02-20 10:02,customer,Olivia,en,"Hi,"
+58,2,2025-02-20 10:04,agent,Devin,en,Hi there!
+58,3,2025-02-20 10:09,customer,Olivia,en,I have a question about my order — refund not processed with my Bluetooth speaker.
+58,4,2025-02-20 10:12,agent,Devin,en,"I can assist you with that, please share your order id."
+58,5,2025-02-20 10:10,customer,Olivia,en,my order id is ORD220768.
+58,6,2025-02-20 10:06,agent,Devin,en,one moment please… we’re sorry about that.
+58,7,2025-02-20 10:14,agent,Devin,en,Your Bluetooth speaker refund has been initiated.
+58,8,2025-02-20 10:16,customer,Olivia,en,thank you very much
+58,9,2025-02-20 10:18,agent,Devin,en,Have a great day!
+59,1,2025-02-05 10:01,customer,Anaya,en,"Hello,"
+59,2,2025-02-05 10:04,agent,Jordan,en,Hello! How can I help you today?
+59,3,2025-02-05 10:09,customer,Anaya,en,I need help with my order — coupon not applied with my smartwatch.
+59,4,2025-02-05 10:04,agent,Jordan,en,"Sure, I can help with that, please share your order id."
+59,5,2025-02-05 10:10,customer,Anaya,en,my order id is ORD634723.
+59,6,2025-02-05 10:06,agent,Jordan,en,let me check that for you… sorry for the inconvenience.
+59,7,2025-02-05 10:21,agent,Jordan,en,Your smartwatch will arrive tomorrow.
+59,8,2025-02-05 10:16,customer,Anaya,en,thanks
+59,9,2025-02-05 10:27,agent,Jordan,en,Take care!
+60,1,2025-02-12 10:01,customer,Sofia,en,"Hello,"
+60,2,2025-02-12 10:04,agent,Devin,en,Hello! How can I help you today?
+60,3,2025-02-12 10:06,customer,Sofia,en,I have a question about my order — defective product with my USB-C charger.
+60,4,2025-02-12 10:12,agent,Devin,en,"Sure, I can help with that, could you provide the order id."
+60,5,2025-02-12 10:15,customer,Sofia,en,my order id is ORD561124.
+60,6,2025-02-12 10:12,agent,Devin,en,one moment please… I apologize for the trouble.
+60,7,2025-02-12 10:14,agent,Devin,en,We have verified defective product; issue has been resolved.
+60,8,2025-02-12 10:08,customer,Sofia,en,thank you very much
+60,9,2025-02-12 10:09,agent,Devin,en,Take care!
